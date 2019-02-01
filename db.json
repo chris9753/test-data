@@ -2,6 +2,7 @@
   "data": {
     "lanes": [
       {
+        "id":1,
         "lane": "Lane A",
         "auction": "eBlock ON & QC",
         "itemsRemaining": 24,
@@ -13,6 +14,7 @@
         "isWinning": false
       },
       {
+        "id":2,
         "lane": "Lane B",
         "auction": "eBlock ON & QC",
         "itemsRemaining": 58,
@@ -25,6 +27,7 @@
         "isWinning": true
       },
       {
+        "id":3,
         "lane": "Lane C",
         "auction": "eBlock ON & QC",
         "itemsRemaining": 102,
@@ -36,6 +39,7 @@
         "isWinning": false
       },
       {
+        "id":4,
         "lane": "Lane D",
         "auction": "eBlock ON & QC",
         "itemsRemaining": 56,
@@ -47,6 +51,7 @@
         "isWinning": false
       },
       {
+        "id":5,
         "lane": "Lane AA",
         "auction": "ESP Direct Montreal",
         "itemsRemaining": 76,
@@ -59,6 +64,7 @@
         "isWinning": false
       },
       {
+        "id":6,
         "lane": "Lane BB",
         "auction": "ESP Direct Montreal",
         "itemsRemaining": 209,
@@ -70,6 +76,7 @@
         "isWinning": false
       },
       {
+        "id":7,
         "lane": "Lane CC",
         "auction": "ESP Direct Montreal",
         "itemsRemaining": 9,
